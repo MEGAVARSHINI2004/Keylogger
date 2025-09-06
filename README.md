@@ -25,7 +25,7 @@ Keylogger-Tkinter/
 
 ## 🚀 How to Run
 Clone the repository:
-git (clone https://github.com/MEGAVARSHINI2004/Keylogger-Tkinter.git)
+git (clone https://github.com/MEGAVARSHINI2004/Keylogger.git)
 cd Keylogger-Tkinter
 
 
